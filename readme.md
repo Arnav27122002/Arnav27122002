@@ -10,7 +10,7 @@
 
 <img src='https://img.shields.io/badge/Web%20Developer-5555555?style=for-the-badge&logoColor=green'>
 
-I am **BHAGYAJ**. I am currently pursuing my undergraduate degree in Computer Science and Engineering from Cochin University of Science and Technology.
+I am **ARNAV**. I am currently pursuing my undergraduate degree in Computer Science and Engineering from Cochin University of Science and Technology.
 
 - I am interested in `DevOps` and `Web3`
 - Ask me about `Python` and `Web Development`
