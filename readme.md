@@ -56,7 +56,7 @@ I am **BHAGYAJ**. I am currently pursuing my undergraduate degree in Computer Sc
                 <img height="64px" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png">
             <td width="20%" align="center">
                 <span>Pandas</span><br><br><br>
-                <img width="64px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPandas_%2528software%2529&psig=AOvVaw0sqAbpWRZCz4K3Ih_Y8wCq&ust=1701506616025000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNj2rJ3s7YIDFQAAAAAdAAAAABAE">
+                <img width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/640px-Pandas_logo.svg.png">
             </td>
                 <td width="20%" align="center">
                 <span>Flask</span><br><br><br>
