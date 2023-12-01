@@ -48,8 +48,8 @@ I am **BHAGYAJ**. I am currently pursuing my undergraduate degree in Computer Sc
                 <img height="64px" src="https://avatars.githubusercontent.com/u/27804?s=280&v=4">
             </td>
             <td width="20%" align="center">
-                <span>React</span><br><br><br>
-                <img height="64px" src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp">
+                <span>Numpy</span><br><br><br>
+                <img height="64px" src="https://numpy.org/images/numpy-image.jpg">
             </td>
             <td width="20%" align="center">
                 <span>Bootstrap</span><br><br><br>
