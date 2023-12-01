@@ -91,13 +91,13 @@ I am **ARNAV**. I am currently pursuing my undergraduate degree in Computer Scie
 
 ## Socials
 
-<a href = "https://instagram.com/deltawing.0700">
+<a href = "https://www.instagram.com/arnav.kashyap11/">
     <p>
         <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"/>
     </p>
 </a>
 
-<a href = "https://www.linkedin.com/in/bhagyajkumar/">
+<a href = "www.linkedin.com/in/arnav-kashyap-692710250">
     <p>
         <img width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
     </p>
