@@ -6,7 +6,7 @@
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=bhagyajkumar&color=010040&style=flat-square)<br>
+![](https://komarev.com/ghpvc/?username=Arnav27122002r&color=010040&style=flat-square)<br>
 
 <img src='https://img.shields.io/badge/Web%20Developer-5555555?style=for-the-badge&logoColor=green'>
 
