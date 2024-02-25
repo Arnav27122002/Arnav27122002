@@ -44,16 +44,16 @@ I am **ARNAV**. I am currently pursuing my undergraduate degree in Computer Scie
     <tbody>
         <tr vallign="top">
             <td width="20%" align="center">
-                <span>Django</span><br><br><br>
-                <img height="64px" src="https://avatars.githubusercontent.com/u/27804?s=280&v=4">
+                <span>Tensorflow</span><br><br><br>
+                <img height="64px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2022%2F03%2Fa-basic-introduction-to-tensorflow-in-deep-learning%2F&psig=AOvVaw1wojke2P7x_q-ty320l-A3&ust=1708979952040000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDoycmsx4QDFQAAAAAdAAAAABAE">
             </td>
             <td width="20%" align="center">
                 <span>Numpy</span><br><br><br>
                 <img height="64px" src="https://numpy.org/images/numpy-image.jpg">
             </td>
             <td width="20%" align="center">
-                <span>Bootstrap</span><br><br><br>
-                <img height="64px" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png">
+                <span>React</span><br><br><br>
+                <img height="64px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flevelup.gitconnected.com%2Fdisplay-images-in-react-8ff1f5b1cf9a&psig=AOvVaw0aFWNPV2kRy6mSDrqWVNVl&ust=1708979807724000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjjtIWsx4QDFQAAAAAdAAAAABAE">
             <td width="20%" align="center">
                 <span>Pandas</span><br><br><br>
                 <img width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/640px-Pandas_logo.svg.png">
