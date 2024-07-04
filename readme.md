@@ -2,7 +2,7 @@
 ### Hey there 👋, Welcome to my GitHub Profile
 
 <p>
-    <img src="https://github.com/bhagyajkumar/bhagyajkumar/blob/main/assets/image.png?raw=true" | width = 250 align="right">
+    <img src="https://www.bleepstatic.com/content/hl-images/2023/06/23/super-mario-bros.jpg" | width = 250 align="right">
 </p>
 
 
