@@ -1,5 +1,5 @@
 
-### Hey there 👋, Welcome to my GitHub Profile
+### HeyLO 👋, Welcome to my GitHub Profile
 
 <p>
     <img src="https://www.bleepstatic.com/content/hl-images/2023/06/23/super-mario-bros.jpg" | width = 250 align="right">
@@ -8,7 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Arnav27122002r&color=010040&style=flat-square)<br>
 
-<img src='https://img.shields.io/badge/Web%20Developer-5555555?style=for-the-badge&logoColor=green'>
+<img src='https://img.shields.io/badge/Web%20Developer-5555555?style=for-the-badge&logoColor=blue'>
 
 I am **ARNAV**. I am currently pursuing my undergraduate degree in Computer Science and Engineering from Cochin University of Science and Technology.
 
