@@ -81,8 +81,8 @@ I am **ARNAV**. I am currently pursuing my undergraduate degree in Computer Scie
                 <img height="64px" src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo-1996-present.png">
             </td>
             <td width="25%" align="center">
-                <span>Docker</span><br><br><br>
-                <img height="64px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_tile_logo_icon_168248.png">
+                <span>Postman</span><br><br><br>
+                <img height="64px" src="https://ik.imagekit.io/qualys/wp-content/uploads/2020/10/postman.jpg">
             </td>
         </tr>
     </tbody>
