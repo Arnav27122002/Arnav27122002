@@ -45,7 +45,7 @@ I am **ARNAV**. I am currently pursuing my undergraduate degree in Computer Scie
         <tr vallign="top">
             <td width="20%" align="center">
                 <span>Springboot</span><br><br><br>
-                <img height="64px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fspringboot&psig=AOvVaw0MdL2G_Cb02Sh2D3gJYc_0&ust=1720223179275000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCqufDIjocDFQAAAAAdAAAAABAE>"
+                <img height="64px" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png"
             </td>
             <td width="20%" align="center">
                 <span>Numpy</span><br><br><br>
