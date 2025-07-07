@@ -12,7 +12,7 @@
 
 I am **ARNAV**. I am currently pursuing my undergraduate degree in Computer Science and Engineering from Cochin University of Science and Technology.
 
-- I am interested in `Data science`and `Back End Development`
+- I am interested in `Cloud Computing`and `Back End Development`
 - Ask me about `Java` and `Web Development`
   
 ## My Tech Stack
